@@ -1,0 +1,8 @@
+D:\ISDB_BISEW\ISDB_C#_CLASSES\Problem Solving C#\Linq_Implementation\Linq_Implementation\bin\Debug\Linq_Implementation.exe.config
+D:\ISDB_BISEW\ISDB_C#_CLASSES\Problem Solving C#\Linq_Implementation\Linq_Implementation\bin\Debug\Linq_Implementation.exe
+D:\ISDB_BISEW\ISDB_C#_CLASSES\Problem Solving C#\Linq_Implementation\Linq_Implementation\bin\Debug\Linq_Implementation.pdb
+D:\ISDB_BISEW\ISDB_C#_CLASSES\Problem Solving C#\Linq_Implementation\Linq_Implementation\obj\Debug\Linq_Implementation.csproj.AssemblyReference.cache
+D:\ISDB_BISEW\ISDB_C#_CLASSES\Problem Solving C#\Linq_Implementation\Linq_Implementation\obj\Debug\Linq_Implementation.csproj.SuggestedBindingRedirects.cache
+D:\ISDB_BISEW\ISDB_C#_CLASSES\Problem Solving C#\Linq_Implementation\Linq_Implementation\obj\Debug\Linq_Implementation.csproj.CoreCompileInputs.cache
+D:\ISDB_BISEW\ISDB_C#_CLASSES\Problem Solving C#\Linq_Implementation\Linq_Implementation\obj\Debug\Linq_Implementation.exe
+D:\ISDB_BISEW\ISDB_C#_CLASSES\Problem Solving C#\Linq_Implementation\Linq_Implementation\obj\Debug\Linq_Implementation.pdb
